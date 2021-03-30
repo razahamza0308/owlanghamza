@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+#logotext{
+    font-size: xx-large;
+    transition: 0.3s;
+    margin-bottom: 1.5em;
+    color: #444444;
+    cursor: pointer;
+}
+
+#logotext:hover{
+    color: #2097fc;
+}
+
+#logotext:focus{
+    border: 1px dotted #2097fc;
+}
+
+
+
+#nav-spacing
+{
+    padding-left: 200px;
+}
+
+.navbar-collapse a{
+    color: #212529;
+}
+
+
+
+
+
+#section_1{
+    padding: 0;
+    margin: 0;
+    background-image: url(images/section-1-bg.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+
+#h-p{
+    color: white;
+    font-size: 75px;
+    font-weight: 700;
+    /* padding-top: 13.5%; */
+    margin: 0px;
+    padding-left: 50px;
+    height: inherit;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#h-p h2 {
+    padding-top: 120px;
+    font-size: inherit;
+    color: inherit;
+    font-weight: inherit;
+}
+
+#h-p p
+{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+#curriculum_file{
+    font-size: 5.5rem;
+    color: #2097fc;
+}
+#curriculum_file:hover{
+    font-size: 6rem;
+    transition: 0.3s;
+}
+
+#virtual_globe{
+    font-size: 5.5rem;
+    color: #2097fc;
+}
+
+#virtual_globe:hover{
+    font-size: 6rem;
+    transition: 0.3s;
+}
+
+#family_heart{
+    font-size: 5.5rem;
+    color: #2097fc;
+}
+
+#family_heart:hover{
+    font-size: 6rem;
+    transition: 0.3s;
+}
+
+.heading_4
+{
+    color: #052944;
+    font-weight: bold;
+}
+
+#section_3{
+    background-image: url(images/section-3-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    height: 370px;
+}
+
+#section_3 .col-12
+{
+    background-color: rgba(0, 0, 0, 0.651);
+    height: inherit;
+}
+
+
+#section_5{
+    color: white;
+}
+
+#section_5 .col-12
+{
+    background-color: rgba(0, 0, 0, 0.7);
+    background-image: url(images/section-5-bg.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-blend-mode: multiply;
+
+}
+
+.ssites{
+    font-size: 24px;
+    background: #2097FC; 
+    padding: 13px 18px; 
+    border-radius: 30px;
+}
+
+footer{
+    font-family: 'Lato', sans-serif !important;
+}
+
+.copyright a,div,span{
+    color: #666666;
+    text-decoration: none;
+}
+
+.copyright{
+    background: white;
+    font-size: 12px;
+}
+
+.copyright a{
+    transition: 0.5s;
+}
+
+.copyright a:hover{
+    text-decoration: underline #666666;
+}
+
+.progress-bar
+{
+    color: white;
+}
+
+.social
+{
+    text-align: center;
+}
+
+.fab
+{
+    font-weight: 600;
+    color: white;
+    margin-left: 10px;
+    
+}
+.fab:hover
+{
+    background-color: green;
+    font-size: 30px;
+    transition: 0.3s;
+}
+.text-end
+{
+    color: white;
+    float: right;
+    
+    
+}
+.text-start
+{
+    color: white;
+    float: left;
+    
+}
